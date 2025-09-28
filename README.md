@@ -8,8 +8,8 @@ All experiments were implemented in PyCharm and cover both basic and intermediat
 
 Clone the repository and install the required dependencies.
 
-git clone https://github.com/your-username/opencv-practice.git
-cd opencv-practice
+git clone https://github.com/bhaskarkarn1/ImageProcessing_OpenCv.git
+cd ImageProcessing_OpenCv
 pip install -r requirements.txt
 
 
