@@ -14,23 +14,21 @@ pip install -r requirements.txt
 
 
 Requirements:
-
 Python 3.x
+opencv-python
+numpy
 
-OpenCV (opencv-python)
-
-NumPy
 
 pip install opencv-python numpy
 
 📂 Project Structure
 opencv-practice/
-│── notebooks/        # Jupyter Notebooks (step-by-step practice)
-│── scripts/          # Python scripts for each task
-│── images/           # Sample images
-│── videos/           # Sample videos
-│── requirements.txt
-│── README.md
+├── notebooks/        # Jupyter Notebooks (step-by-step practice)
+├── scripts/          # Python scripts for each task
+├── images/           # Sample images
+├── videos/           # Sample videos
+├── requirements.txt
+└── README.md
 
 🎯 Future Scope
 
