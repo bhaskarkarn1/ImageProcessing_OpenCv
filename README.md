@@ -22,11 +22,11 @@ numpy
 
 pip install opencv-python numpy
 
-Future Scope
+Future Scope:
 Integrate deep learning models for detection (YOLO, SSD, DNN).
 Apply filters and transformations.
 Explore object tracking (KCF, CSRT).
 
-🙌 Acknowledgements
+🙌 Acknowledgements:
 OpenCV Documentation
 Tutorials and practice material
